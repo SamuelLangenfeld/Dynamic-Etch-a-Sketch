@@ -1,0 +1,61 @@
+#squareDiv{
+	position:relative;
+	
+
+
+}
+
+td{
+
+
+	border:2px solid black;
+
+}
+
+table{
+	width:700px;
+	height:700px;
+	border-collapse:collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+p{
+	display:inline-block;
+}
+
+.squareTD{
+	
+}
+
+.header{
+	position: relative;
+	height:150px;
+}
+
+#squareValue{
+	width: 50px;
+}
+
+#greenButton{
+	display:inline-block;
+}
+
+#squareForm{
+	display: inline-block;
+}
+
+.pageTitle{
+	text-align:center;
+}
+
+
+
+.buttonLine{
+	text-align:center;
+	min-width:820px;
+}
+
+body{
+	background-color:lightblue;
+}
